@@ -7,14 +7,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.0",
     "framer-motion": "^6.2.6",
     "pdfreader": "^1.2.14",
-    "react": "^17.0.2",
+    "react": "^18.3.1",
     "react-awesome-button": "^6.5.1",
-    "react-dom": "^17.0.2",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.4.0",
     "react-loader-spinner": "^5.1.2",
     "react-responsive": "^9.0.0-beta.6",
-    "react-tabs": "^3.2.3"
+    "react-router-dom": "^7.2.0",
+    "typed.js": "^2.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
